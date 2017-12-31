@@ -1,0 +1,20 @@
+.w3-container {
+  text-align: center;
+  border-style: outset;
+  font-size: 16px;
+  font-family: Trebuchet MS;
+  background: linear-gradient(#0099cc, #333300);
+  border-width: 5px;
+}
+
+input[type=checkbox] {
+    zoom: 200%;
+}
+
+.w3-light-grey {
+  border-style: outset;
+}
+
+body {
+  background: linear-gradient(grey, grey);
+}
